@@ -79,3 +79,7 @@ The Customer Booking Analysis Dashboard is designed to help analyze factors infl
     *   The dashboard displays the model accuracy and a visualization of feature importance.
 
 ## Project Structure
+customer-booking-analysis/
+├── main.py # Main application file for running the Streamlit app
+├── README.md # Project documentation (this file)
+├── requirements.txt # List of Python dependencies
